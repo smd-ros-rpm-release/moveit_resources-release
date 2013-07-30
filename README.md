@@ -1,3 +1,22 @@
+## moveit_resources - 0.5.0-0
+
+User `isucan@i7` released the packages in the `moveit_resources` repository by running `/usr/local/bin/bloom-release --track hydro --ros-distro hydro moveit_resources` on `Tue, 30 Jul 2013 11:17:28 -0000`
+
+The `moveit_resources` package was released.
+
+Version of package(s) in repository `moveit_resources`:
+- rosdistro version: `0.4.1-0`
+- old version: `0.4.1-0`
+- new version: `0.5.0-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.31`
+
+
 ## moveit_resources - 0.4.1-0
 
 User `isucan@i7` released the packages in the `moveit_resources` repository by running `/usr/local/bin/bloom-release --track hydro --ros-distro hydro --new-track moveit_resources` on `Wed, 03 Jul 2013 17:10:17 -0000`
