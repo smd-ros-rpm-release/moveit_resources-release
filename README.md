@@ -1,3 +1,22 @@
+## moveit_resources (indigo) - 0.5.0-0
+
+User `isucan@isucan-glaptop0` released the packages in the `moveit_resources` repository into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo moveit_resources --new-track` on `Wed, 26 Feb 2014 05:29:31 -0000`
+
+The `moveit_resources` package was released.
+
+Version of package(s) in repository `moveit_resources`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## moveit_resources - 0.5.0-0
 
 User `isucan@i7` released the packages in the `moveit_resources` repository by running `/usr/local/bin/bloom-release --track hydro --ros-distro hydro moveit_resources` on `Tue, 30 Jul 2013 11:17:28 -0000`
